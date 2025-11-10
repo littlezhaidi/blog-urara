@@ -1,5 +1,5 @@
 ---
-title: 申請github education [圖片炸了]
+title: 申請github education
 summary: 事情是這樣的，學長說那裡有免費域名...
 created: 2025-08-05
 updated: 2025-08-05
@@ -21,7 +21,7 @@ tags:
 [Github学生认证及学生包申请指南](https://github.com/JimmyLing233/Github-Student-Certification-Guide)  
 所以我就用手機拍了一張我跟學生證的照片，丟去github上面申請  
 畢竟說學生證是最可信的證明  
-![image alt](https://cdn.discordapp.com/attachments/1402135396783231096/1402166795841966100/2025-08-05_1.50.07.png?ex=690ae597&is=69099417&hm=236f62cb0919bea78f122a268d79dd64e9101cc13892ecd6e9bb7e76d579dcc7&)  
+![image alt](https://img.littlezhaidi.me/250805ghedu/upload-proof.webp)  
 
 抱著要等待一段時間的心態，我跑去看其他文章  
 [gcp-free-tier](https://kucw.io/blog/gcp-free-tier/)  
@@ -29,8 +29,7 @@ tags:
 結果不到五分鐘就被駁回了:nerd:  
 
 （兩張圖是同一個訊息，畢竟這裡是圖片存放區所以都保留）  
-![image alt](https://media.discordapp.net/attachments/1402135396783231096/1402168347529052242/2025-08-05_11.55.02.png?ex=690ae709&is=69099589&hm=947cc3138aebcba97b0ed67fabb622c39aa60cae917190b75f97fc70351039b2&=&format=webp&quality=lossless)  
-![image alt](https://media.discordapp.net/attachments/1402135396783231096/1402168347793166399/2025-08-05_12.07.58.png?ex=690ae709&is=69099589&hm=7763fa4ebc766c0c50503a76cc0112d7fd913b79ad384a027446a886c5759919&=&format=webp&quality=lossless&width=612&height=713)  
+![image alt](https://img.littlezhaidi.me/250805ghedu/denied.webp)  
 
 ## 駁回理由
 
@@ -48,12 +47,12 @@ tags:
 首先是`profile`，螢光筆似乎是必填選項  
 `name`要填真實姓名，不能用網名（reason第6點）  
 學校名稱我是用複製的  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402170886307581994/2025-08-05_2.04.02.png?ex=690ae966&is=690997e6&hm=a0a94d561d083455dd80f0c2549644c7049200c0d7ce63b98f474331014453db&=&format=webp&quality=lossless&width=818&height=817)  
+![image alt](https://img.littlezhaidi.me/250805ghedu/profile.webp)  
 
 reason第3點，要填寫付款資訊（星號必填）  
 只是為了確認真實姓名以及地址，不用真的有個付款方式  
 地址我直接填學校地址，不知道行不行的通[（當初這裡也是）](https://discord.com/channels/1325105067787026473/1381984610388414526)  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402171749201608734/2025-08-05_2.07.26.png?ex=690aea34&is=690998b4&hm=c520fee6a41af6abde3bbdf2848947aa2d2bf7b660f649e7f320ad9c25c8a065&=&format=webp&quality=lossless)  
+![alt](https://img.littlezhaidi.me/250805ghedu/payment.webp)  
 
 還有郵遞區號，我當初是去google找的  
 但是這裡似乎不用填得很詳細，所以我就直接照抄之前的資料  
@@ -64,11 +63,11 @@ reason第3點，要填寫付款資訊（星號必填）
 
 就是你手機裡面要有這東西（一定要手機才行）  
 掃qrcode就可以連結帳號，再用他的六位數驗證碼登入就行  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402173634855964693/Screenshot_20250805_141437_One_UI_Home.jpg?ex=690aebf5&is=69099a75&hm=71145b5bbd93e0d5a985e015606c77a3e6a45a7316b06c20f85f72891448c1f3&=&format=webp&width=377&height=817)  
+![alt](https://img.littlezhaidi.me/250805ghedu/authenticator.webp)  
 
 以後登入畫面就長這樣  
 跟你在不同地方登入，要電子郵件認證的輸入驗證碼畫面差不多  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402174288563404810/2025-08-05_2.18.38.png?ex=690aec91&is=69099b11&hm=f69cdd57b620b15ba29c2a7ea98606bc79dee7fe3f0a9c148469bd555f1282c4&=&format=webp&quality=lossless)  
+![alt](https://img.littlezhaidi.me/250805ghedu/2fa.webp)  
 
 至於照片太模糊，我發現其實不是手機鏡頭問題  
 我其實可以直接用電腦上傳圖片🤡（手機沒這介面）  
@@ -78,11 +77,11 @@ reason第3點，要填寫付款資訊（星號必填）
 
 然後記得對焦，我在猜第一次是不是對焦到我臉上了，導致學生證模糊不清😆  
 幸好github會自動偵測與就讀學校相關的郵件信箱，省很多麻煩  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402176543647862844/2025-08-05_2.27.10.png?ex=690aeeab&is=69099d2b&hm=9351eeae62b9c1954e242d4c169d3519cd26f0657246c30da52135fa8079be5a&=&format=webp&quality=lossless)  
+![alt](https://img.littlezhaidi.me/250805ghedu/email-address.webp)  
 
 然後就過了，其實真的滿快的，居然不到半小時  
 （我還以為還要再跑一次翻譯的流程）  
-![alt](https://media.discordapp.net/attachments/1402135396783231096/1402177112739414087/2025-08-05_12.11.42.png?ex=690aef32&is=69099db2&hm=69ed424b29ff907cf318e77cbbb1b9985af9c931a6fc58c7f197e33f0bc92544&=&format=webp&quality=lossless)  
+![alt](https://img.littlezhaidi.me/250805ghedu/approved.webp)  
 
 ## 結語＆補充說明
 

@@ -27,6 +27,10 @@ export const header: HeaderConfig = {
       text: 'About', // 按钮名称
       link: '/about' // 指向的网页，可以填写其他网页
     },
+    {
+      text: 'discord bot',
+      link: '/python/dcbot'
+    }
   ]
 }
 
