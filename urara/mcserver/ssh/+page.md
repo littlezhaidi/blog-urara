@@ -129,6 +129,27 @@ whoami
   littlezhaidi
 ```
 
-好了，今天先寫到這裡，我有點懶了  
-之後一定會再更新的，一定。  
+### 快速瀏覽log檔案（260216更新）
+最近才發現我忘了這東西，有點搞笑  
+因為我當初就是為了這件事，才換到vscode的  
+雖然說winscp不能在macos上用，也是原因之一啦  
+
+作為服主，當然會開始擔心伺服器狀況，  
+畢竟之前有這麼多崩服經驗。  
+而伺服器產出的log，就是健康狀況的最佳指標。  
+但問題是這東西被壓縮了，winscp上面比較難打開。  
+這時候就是vscode插件發力的時候了:D  
+
+一般來說，我們沒辦法直接預覽被壓縮的檔案。  
+![alt](https://img.littlezhaidi.me/260216ssh/compressed.png)  
+我用的是這個插件，不太直覺但是能用。  
+![alt](https://img.littlezhaidi.me/260216ssh/extention.png)  
+安裝完成之後，按一下右上角插件的圖標，就能看到檔案內容了。
+![alt](https://img.littlezhaidi.me/260216ssh/content.png)  
+檔案裡面一整片白色文字，說真的很難看出重要內容。  
+如果想要跟我一樣的語法高亮，可以去設定vscode檔案關聯，  
+把`.gz`檔案跟`log`設定連結，這樣就有語法高亮了。
+![alt](https://img.littlezhaidi.me/260216ssh/association.png)  
+
+這篇文之後一定會再更新的，一定。  
 因為ssh幾乎是每次都要用到的，沒有理由不學到新東西
