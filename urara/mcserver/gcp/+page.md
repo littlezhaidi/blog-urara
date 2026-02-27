@@ -2,9 +2,9 @@
 title: 有關gcp的各種瑣事
 summary: 簡單講一下我在gcp曾經遇到的問題...
 created: 2026-02-18
-tags: 
-  - 'mc server'
-  - 'Linux'
+tags:
+  - mc-server
+  - Linux
 ---
 
 簡單講一下我在gcp曾經遇到的問題，  

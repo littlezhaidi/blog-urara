@@ -2,9 +2,9 @@
 title: SSH連線雜談
 summary: 其實vscode就可以取代掉winscp了，還可以在macos跟linux上面用...
 created: 2025-11-10
-tags: 
-  - 'mc server'
-  - 'Linux'
+tags:
+  - mc-server
+  - Linux
 ---
 
 既然開了mc伺服器，就當然要玩模組啦  

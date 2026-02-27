@@ -5,9 +5,9 @@ created: 2025-08-28
 updated: 2025-11-09
 publish: 2025-11-09
 tags:
-  - 'Python'
-  - 'dc bot'
-  - 'Linux'
+  - Python
+  - dc-bot
+  - Linux
 ---
 
 剛接觸python時，vscode總是會提示「確定要把套件安裝在全域環境下嗎」  

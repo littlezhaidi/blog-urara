@@ -2,9 +2,9 @@
 title: tetra channel bot
 created: 2025-11-09
 tags:
-  - 'Project'
-  - 'dc bot'
-  - 'Python'
+  - Project
+  - dc-bot
+  - Python
 flags:
   - 'unlisted'
 ---

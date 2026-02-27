@@ -4,8 +4,8 @@ summary: 眾所周知，mc需要java才能啟動...
 created: 2026-02-16
 publish: 2026-02-16
 tags:
-  - 'Linux'
-  - 'mc server'
+  - Linux
+  - mc-server
 ---
 
 眾所周知，mc需要java才能啟動  

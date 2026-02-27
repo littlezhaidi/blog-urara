@@ -5,8 +5,9 @@ created: 2025-08-08
 updated: 2025-11-08
 publish: 2025-11-08
 tags:
-  - 'Github'
-  - 'mc server'
+  - Github
+  - mc-server
+  - Cloudflare
 ---
 
 
